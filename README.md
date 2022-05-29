@@ -1,1 +1,1 @@
-course wafi bareg dea
+course wafi bareg dea staging
